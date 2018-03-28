@@ -8,5 +8,6 @@ notifications:
 			- gkgjsrb@gmail.com
 			- oring315@naver.com
 			- oring315@gmail.com
+			- jaehyun739@gmail.com
 		on_success: always
 		on_failure: always
