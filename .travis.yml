@@ -7,5 +7,6 @@ notifications:
 		recipients:
 			- gkgjsrb@gmail.com
 			- oring315@naver.com
+			- oring315@gmail.com
 		on_success: always
 		on_failure: always
